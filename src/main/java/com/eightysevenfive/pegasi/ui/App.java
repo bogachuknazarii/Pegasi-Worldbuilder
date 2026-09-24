@@ -54,7 +54,7 @@ public class App extends Application {
 
         }
 
-        /*//Draw Hypergrid
+        //Draw Hypergrid
         gc.setFill(Color.DARKBLUE);
         gc.setStroke(Color.DARKRED);
 
@@ -80,7 +80,7 @@ public class App extends Application {
 
             }
 
-        }*/
+        }
 
         return new StackPane(canvas);
 
